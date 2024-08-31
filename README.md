@@ -1,6 +1,6 @@
 # Kalender Saka Bali
 
-<img src="./images/ic_launcher_macos.png" width="200">
+<img src="./images/ic_launcher_macos.png" width="200"/>
 
 **Om Swastyastu,**
 
@@ -73,10 +73,10 @@ Kalender Saka Bali mendukung: mode terang/gelap, tema berwarna, serta berbagai r
 <table>
     <tr>
         <th>
-            <a href="https://apps.apple.com/app/kalender-saka-bali/id6661022180"><img src="./images/app-store-logo.png" alt="App Store"></a>
+            <a href="https://apps.apple.com/app/kalender-saka-bali/id6661022180"><img src="./images/app-store-logo.png" alt="App Store"/></a>
         </th>
         <th>
-            <a href="https://play.google.com/store/apps/details?id=com.peradnya.kalenderbali&pcampaignid=web_share"><img src="./images/google-play-logo.png" alt="Play Store">
+            <a href="https://play.google.com/store/apps/details?id=com.peradnya.kalenderbali&pcampaignid=web_share"><img src="./images/google-play-logo.png" alt="Play Store"/></a>
         </th>
     </tr>
 </table>
