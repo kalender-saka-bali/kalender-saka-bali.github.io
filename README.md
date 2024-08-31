@@ -48,22 +48,22 @@ Kalender Saka Bali mendukung: mode terang/gelap, tema berwarna, serta berbagai r
 <table>
     <tr>
         <th>
-            <img src="./images/0.png" alt="Modern & Minimalis">
+            <img src="./images/0.jpeg" alt="Modern & Minimalis">
         </th>
         <th>
-            <img src="./images/1.png" alt="Fitur Lengkap">
+            <img src="./images/1.jpeg" alt="Fitur Lengkap">
         </th>
         <th>
-            <img src="./images/2.png" alt="Perjodohan & Peruntungan">
+            <img src="./images/2.jpeg" alt="Perjodohan & Peruntungan">
         </th>
         <th>
-            <img src="./images/3.png" alt="Hari Baik">
+            <img src="./images/3.jpeg" alt="Hari Baik">
         </th>
         <th>
-            <img src="./images/4.png" alt="Kelola Event">
+            <img src="./images/4.jpeg" alt="Kelola Event">
         </th>
         <th>
-            <img src="./images/5.png" alt="Home Widget">
+            <img src="./images/5.jpeg" alt="Home Widget">
         </th>
     </tr>
 </table>
