@@ -45,13 +45,41 @@ Kalender Saka Bali mendukung: mode terang/gelap, tema berwarna, serta berbagai r
 
 ## Tampilan Aplikasi
 
-| ![Modern & Minimalis](./images/0.png) | ![Fitur Lengkap](./images/1.png) | ![Peruntungan & Perjodohan](./images/2.png) | ![Hari Baik](./images/3.png) | ![Kelola Event](./images/4.png) | ![Home Widget](./images/5.png) |
-| --- | --- | --- | --- | --- | --- |
+<table>
+    <tr>
+        <th>
+            <img src="./images/0.png" alt="Modern & Minimalis">
+        </th>
+        <th>
+            <img src="./images/1.png" alt="Fitur Lengkap">
+        </th>
+        <th>
+            <img src="./images/2.png" alt="Perjodohan & Peruntungan">
+        </th>
+        <th>
+            <img src="./images/3.png" alt="Hari Baik">
+        </th>
+        <th>
+            <img src="./images/4.png" alt="Kelola Event">
+        </th>
+        <th>
+            <img src="./images/5.png" alt="Home Widget">
+        </th>
+    </tr>
+</table>
 
 ## Unduh
 
-| [![App Store](./images/app-store-logo.png)](https://apps.apple.com/app/kalender-saka-bali/id6661022180) | [![Google Play](./images/google-play-logo.png)](https://play.google.com/store/apps/details?id=com.peradnya.kalenderbali&pcampaignid=web_share) |
-| --- | --- |
+<table>
+    <tr>
+        <th>
+            <a href="https://apps.apple.com/app/kalender-saka-bali/id6661022180"><img src="./images/app-store-logo.png" alt="App Store"></a>
+        </th>
+        <th>
+            <a href="https://play.google.com/store/apps/details?id=com.peradnya.kalenderbali&pcampaignid=web_share"><img src="./images/google-play-logo.png" alt="Play Store">
+        </th>
+    </tr>
+</table>
 
 ---
 
